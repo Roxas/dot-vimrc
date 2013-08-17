@@ -103,3 +103,4 @@ Bundle 'fisadev/fisa-vim-colorscheme'
 
 filetype plugin indent on     " required!
 Bundle 'Valloric/YouCompleteMe'
+Bundle 'dterei/VimBookmarking'
